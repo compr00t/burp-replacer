@@ -1,6 +1,6 @@
 # Burp Replacer
 
-This extensions searches for a specific URL in a request and replaces to reponse's body with the content of the configured file.
+This extensions searches for a specific URL in a request and replaces to response's body with the content of the configured file.
 
 ![overview](overview.png)
 
